@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello people👋
 
-<!--
-**Abhishikta03/Abhishikta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
 
-Here are some ideas to get you started:
+--> I'm currently pursuing BTech in CSE from Techno Main Salt Lake.I'm a tech enthusiast and an aspiring SDE.<br>
+--> I'm a part of the Tech Team of IIC TMSL.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack:
+
+Presently I know:<br>
+--> Java(intermediate level)<br>
+--> C<br>
+--> HTML,CSS(basic)<br>
+--> Python<br>
+--> Data structure (beginner)<br>
+
+#### Connect with me:
+
+--> <a href="https://www.linkedin.com/in/abhishikta-ray-321315258">LinkedIn</a>
